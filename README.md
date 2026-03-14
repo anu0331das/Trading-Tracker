@@ -1,4 +1,4 @@
-A Python program that helps me organize and log my futures trading, specifically for MES (Micro S&P 500) and MNQ (Micro Nasdaq) contracts. The program will calculate the Profit and Loss (P&L) of individual trades based on the contract's tick value and the direction of the trade (Long or Short), then save those results into a persistent text file to keep a history of my trading performance.P
+A Python program that helps me organize and log my futures trading, specifically for MES (Micro S&P 500) and MNQ (Micro Nasdaq) contracts. The program will calculate the Profit and Loss (P&L) of individual trades based on the contract's tick value and the direction of the trade (Long or Short), then save those results into a persistent text file to keep a history of my trading performance.
 
 The project has these 6 functions:
 
